@@ -33,6 +33,8 @@ Have not given it a road test yet.
 
 ## Parts list
 
+Prices from 2026.
+
 - [Bolts](https://amzn.to/4sNrlWH) — $17
   - Size: M8x35mm
   - 2-4 bolts to attach Thule WingBar Evo to the roof rails.
